@@ -1,4 +1,5 @@
 # webmix
+Dynamic web page generator using PHP.
 It is a PHP project which is used generate dynamic web pages or web application. We can make any web page just by doing drag and drop.
 
 ###### Used Technologies : 
